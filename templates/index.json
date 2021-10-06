@@ -110,12 +110,43 @@
         "stack_images_on_mobile": false,
         "adapt_height_first_image": true
       }
+    },
+    "16335111822ff756db": {
+      "type": "collage",
+      "blocks": {
+        "d0a94987-bd66-4b24-be4d-66ee687d25a3": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/webprod-3dagua-B.jpg",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        },
+        "73d35256-21fd-44be-bfc7-1c8ddf7c0bab": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/webprod-potenciadorM.jpg",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        }
+      },
+      "block_order": [
+        "d0a94987-bd66-4b24-be4d-66ee687d25a3",
+        "73d35256-21fd-44be-bfc7-1c8ddf7c0bab"
+      ],
+      "settings": {
+        "heading": "",
+        "desktop_layout": "left",
+        "mobile_layout": "collage"
+      }
     }
   },
   "order": [
     "image_banner",
     "163351017378f073ca",
     "163351059255ec5d39",
-    "1633510840b4c80e9e"
+    "1633510840b4c80e9e",
+    "16335111822ff756db"
   ]
 }
