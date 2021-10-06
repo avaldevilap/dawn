@@ -213,6 +213,14 @@
             "title": "",
             "text": ""
           }
+        },
+        "c4ee69a0-4b32-4729-b1ea-34d047c04278": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MARKETING_NEWS.png",
+            "title": "",
+            "text": ""
+          }
         }
       },
       "block_order": [
@@ -220,7 +228,8 @@
         "163351645042a2c79a-1",
         "163351645042a2c79a-2",
         "183cbb0d-002e-4c7f-a2fb-8f502dd9236e",
-        "5144a4d4-8570-4853-bc6d-da6d3a12d982"
+        "5144a4d4-8570-4853-bc6d-da6d3a12d982",
+        "c4ee69a0-4b32-4729-b1ea-34d047c04278"
       ],
       "settings": {
         "title": "",
