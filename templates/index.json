@@ -40,6 +40,27 @@
         "adapt_height_first_image": true
       }
     },
+    "163351017378f073ca": {
+      "type": "collage",
+      "blocks": {
+        "163351017378f073ca-0": {
+          "type": "video",
+          "settings": {
+            "video_url": "https:\/\/www.youtube.com\/watch?v=P5pbt6VJfi8&t=6s",
+            "description": "Describe the video for customers using screen readers",
+            "image_padding": false
+          }
+        }
+      },
+      "block_order": [
+        "163351017378f073ca-0"
+      ],
+      "settings": {
+        "heading": "Multimedia collage",
+        "desktop_layout": "left",
+        "mobile_layout": "collage"
+      }
+    },
     "featured_products": {
       "type": "featured-collection",
       "settings": {
@@ -91,6 +112,7 @@
   },
   "order": [
     "image_banner",
+    "163351017378f073ca",
     "featured_products",
     "image_text"
   ]
