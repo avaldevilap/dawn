@@ -170,6 +170,68 @@
         "stack_images_on_mobile": false,
         "adapt_height_first_image": true
       }
+    },
+    "163351645042a2c79a": {
+      "type": "multicolumn",
+      "blocks": {
+        "163351645042a2c79a-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/MARIE_CLAIRE.jpg",
+            "title": "",
+            "text": ""
+          }
+        },
+        "163351645042a2c79a-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/COSMOPOLITAN.jpg",
+            "title": "",
+            "text": ""
+          }
+        },
+        "163351645042a2c79a-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/WOMAN.png",
+            "title": "",
+            "text": ""
+          }
+        },
+        "183cbb0d-002e-4c7f-a2fb-8f502dd9236e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/EL_MUNDO.png",
+            "title": "",
+            "text": ""
+          }
+        },
+        "5144a4d4-8570-4853-bc6d-da6d3a12d982": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/CINCO_DIAS_d8e7ff86-64b7-46a0-b9cd-3f51dcde5430.jpg",
+            "title": "",
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "163351645042a2c79a-0",
+        "163351645042a2c79a-1",
+        "163351645042a2c79a-2",
+        "183cbb0d-002e-4c7f-a2fb-8f502dd9236e",
+        "5144a4d4-8570-4853-bc6d-da6d3a12d982"
+      ],
+      "settings": {
+        "title": "",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "column_alignment": "center",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "swipe_on_mobile": true
+      }
     }
   },
   "order": [
@@ -180,6 +242,7 @@
     "16335111822ff756db",
     "1633511321b873e65d",
     "16335114495a8ece22",
-    "16335164416daa8bbe"
+    "16335164416daa8bbe",
+    "163351645042a2c79a"
   ]
 }
