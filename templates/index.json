@@ -150,6 +150,16 @@
         "stack_images_on_mobile": false,
         "adapt_height_first_image": true
       }
+    },
+    "16335114495a8ece22": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/web-highlights-natural-A.jpg",
+        "desktop_text_box_position": "center",
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": false,
+        "adapt_height_first_image": true
+      }
     }
   },
   "order": [
@@ -158,6 +168,7 @@
     "163351059255ec5d39",
     "1633510840b4c80e9e",
     "16335111822ff756db",
-    "1633511321b873e65d"
+    "1633511321b873e65d",
+    "16335114495a8ece22"
   ]
 }
