@@ -1,6 +1,8 @@
 {
   "current": {
+    "colors_solid_button_labels": "#FFFFFF",
     "colors_accent_1": "#03336e",
+    "colors_text": "#1A1B18",
     "colors_outline_button_labels": "#03336e",
     "colors_background_1": "#FFFFFF",
     "colors_background_2": "#03336e",
@@ -14,8 +16,8 @@
           "announcement-bar-0": {
             "type": "announcement",
             "settings": {
-              "text": "Envíos gratis a partir de 15 euros",
-              "color_scheme": "inverse",
+              "text": "Envíos gratis a partir de 15 euros 📦",
+              "color_scheme": "accent-1",
               "link": ""
             }
           }
