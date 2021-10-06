@@ -221,6 +221,38 @@
             "title": "",
             "text": ""
           }
+        },
+        "ef6bcf1c-a68e-4406-94a1-5b8098db4a16": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/EMPRENDEDORES.png.crdownload.png",
+            "title": "",
+            "text": ""
+          }
+        },
+        "8de07a5b-98b0-4d8c-ae5c-9b74ac9e5b9d": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/EL_ECONOMISTA.png",
+            "title": "",
+            "text": ""
+          }
+        },
+        "57569b34-1fef-417c-9d18-260685b0e00e": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/abc.png",
+            "title": "",
+            "text": ""
+          }
+        },
+        "99ed8e2d-cbfc-4672-9d6c-98d5a6f72c56": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/VOZPOPULI.png",
+            "title": "",
+            "text": ""
+          }
         }
       },
       "block_order": [
@@ -229,7 +261,11 @@
         "163351645042a2c79a-2",
         "183cbb0d-002e-4c7f-a2fb-8f502dd9236e",
         "5144a4d4-8570-4853-bc6d-da6d3a12d982",
-        "c4ee69a0-4b32-4729-b1ea-34d047c04278"
+        "c4ee69a0-4b32-4729-b1ea-34d047c04278",
+        "ef6bcf1c-a68e-4406-94a1-5b8098db4a16",
+        "8de07a5b-98b0-4d8c-ae5c-9b74ac9e5b9d",
+        "57569b34-1fef-417c-9d18-260685b0e00e",
+        "99ed8e2d-cbfc-4672-9d6c-98d5a6f72c56"
       ],
       "settings": {
         "title": "",
