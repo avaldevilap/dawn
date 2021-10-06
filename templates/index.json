@@ -129,11 +129,21 @@
             "image_padding": false,
             "color_scheme": "background-1"
           }
+        },
+        "03928ace-c3d9-4efa-8375-d0ccc46d79b1": {
+          "type": "product",
+          "settings": {
+            "product": "lubricante-ecologico-base-agua-pack-3-unidades",
+            "secondary_background": false,
+            "second_image": true,
+            "image_padding": true
+          }
         }
       },
       "block_order": [
         "d0a94987-bd66-4b24-be4d-66ee687d25a3",
-        "73d35256-21fd-44be-bfc7-1c8ddf7c0bab"
+        "73d35256-21fd-44be-bfc7-1c8ddf7c0bab",
+        "03928ace-c3d9-4efa-8375-d0ccc46d79b1"
       ],
       "settings": {
         "heading": "",
