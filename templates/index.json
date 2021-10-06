@@ -42,6 +42,7 @@
     },
     "163351017378f073ca": {
       "type": "collage",
+      "disabled": true,
       "blocks": {
         "163351017378f073ca-0": {
           "type": "video",
@@ -81,19 +82,20 @@
             "color_scheme": "background-1"
           }
         },
-        "777372f6-0fbc-4e1d-b49f-2f238994cf39": {
-          "type": "image",
+        "0dae49c3-2b39-4e32-901a-1123b0a177e8": {
+          "type": "product",
           "settings": {
-            "image": "shopify:\/\/shop_images\/webprod-3daceite-A.jpg",
-            "image_padding": false,
-            "color_scheme": "background-1"
+            "product": "lubricante-ecologico-efecto-calor",
+            "secondary_background": false,
+            "second_image": true,
+            "image_padding": true
           }
         }
       },
       "block_order": [
         "18e63d2a-33d6-435b-9f21-a5f25964fff7",
         "44cfa6fa-07a3-4fac-8c68-833003103b16",
-        "777372f6-0fbc-4e1d-b49f-2f238994cf39"
+        "0dae49c3-2b39-4e32-901a-1123b0a177e8"
       ],
       "settings": {
         "heading": "",
