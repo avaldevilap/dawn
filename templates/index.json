@@ -6,7 +6,13 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Talk about your brand"
+            "heading": "Bienvenido a la era Lubets"
+          }
+        },
+        "d18d91ee-95c3-4fd1-9b1a-d946b22aa412": {
+          "type": "text",
+          "settings": {
+            "text": "Somos lubricantes naturales de una dosis que se aplican con un clic"
           }
         },
         "button": {
@@ -23,15 +29,15 @@
       },
       "block_order": [
         "heading",
+        "d18d91ee-95c3-4fd1-9b1a-d946b22aa412",
         "button"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/webcab-horizontal-red.jpg",
-        "image_2": "shopify:\/\/shop_images\/webcab-vertical-red.jpg",
         "desktop_text_box_position": "center",
         "color_scheme": "background-1",
         "stack_images_on_mobile": false,
-        "adapt_height_first_image": false
+        "adapt_height_first_image": true
       }
     },
     "featured_products": {
