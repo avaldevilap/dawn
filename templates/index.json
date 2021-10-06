@@ -62,6 +62,45 @@
         "mobile_layout": "collage"
       }
     },
+    "163351059255ec5d39": {
+      "type": "collage",
+      "blocks": {
+        "18e63d2a-33d6-435b-9f21-a5f25964fff7": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/webprod1.jpg",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        },
+        "44cfa6fa-07a3-4fac-8c68-833003103b16": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/webprod-calor-A.jpg",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        },
+        "777372f6-0fbc-4e1d-b49f-2f238994cf39": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/webprod-3daceite-A.jpg",
+            "image_padding": false,
+            "color_scheme": "background-1"
+          }
+        }
+      },
+      "block_order": [
+        "18e63d2a-33d6-435b-9f21-a5f25964fff7",
+        "44cfa6fa-07a3-4fac-8c68-833003103b16",
+        "777372f6-0fbc-4e1d-b49f-2f238994cf39"
+      ],
+      "settings": {
+        "heading": "",
+        "desktop_layout": "right",
+        "mobile_layout": "collage"
+      }
+    },
     "image_text": {
       "type": "image-with-text",
       "blocks": {
@@ -100,6 +139,7 @@
   "order": [
     "image_banner",
     "163351017378f073ca",
+    "163351059255ec5d39",
     "image_text"
   ]
 }
