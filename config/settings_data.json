@@ -1,5 +1,8 @@
 {
   "current": {
+    "type_header_font": "raleway_n4",
+    "type_body_font": "roboto_n4",
+    "accent_icons": "text",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
@@ -25,7 +28,7 @@
           "logo": "shopify:\/\/shop_images\/WhatsApp_Image_2021-01-25_at_19.07.30.jpg",
           "logo_width": 80,
           "logo_position": "middle-left",
-          "menu": "main-menu",
+          "menu": "main-menu-new",
           "show_line_separator": true,
           "enable_sticky_header": true
         }
