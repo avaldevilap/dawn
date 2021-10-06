@@ -140,6 +140,16 @@
         "desktop_layout": "left",
         "mobile_layout": "collage"
       }
+    },
+    "1633511321b873e65d": {
+      "type": "image-banner",
+      "settings": {
+        "image": "shopify:\/\/shop_images\/web-highlights-facilones-A.jpg",
+        "desktop_text_box_position": "center",
+        "color_scheme": "background-1",
+        "stack_images_on_mobile": false,
+        "adapt_height_first_image": true
+      }
     }
   },
   "order": [
@@ -147,6 +157,7 @@
     "163351017378f073ca",
     "163351059255ec5d39",
     "1633510840b4c80e9e",
-    "16335111822ff756db"
+    "16335111822ff756db",
+    "1633511321b873e65d"
   ]
 }
