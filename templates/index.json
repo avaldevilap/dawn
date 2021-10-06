@@ -101,13 +101,14 @@
         "mobile_layout": "collage"
       }
     },
-    "image_text": {
-      "type": "image-with-text",
+    "1633510840b4c80e9e": {
+      "type": "image-banner",
       "settings": {
         "image": "shopify:\/\/shop_images\/webprod-potenciadorF-A.jpg",
-        "height": "adapt",
+        "desktop_text_box_position": "center",
         "color_scheme": "background-1",
-        "layout": "image_first"
+        "stack_images_on_mobile": false,
+        "adapt_height_first_image": true
       }
     }
   },
@@ -115,6 +116,6 @@
     "image_banner",
     "163351017378f073ca",
     "163351059255ec5d39",
-    "image_text"
+    "1633510840b4c80e9e"
   ]
 }
